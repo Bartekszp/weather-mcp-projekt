@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "C:\\Users\\szpargalab\\Desktop\\weather-mcp-project\\pogoda.exe",
+      "env": {
+        "CONJUR_APPLIANCE_URL": "http://localhost:8080",
+        "CONJUR_ACCOUNT": "myorg",
+        "CONJUR_AUTHN_LOGIN": "host/weather-service",
+        "CONJUR_AUTHN_API_KEY": "3asnj6d12v59nwk0zf3e1tbw9y8pbykz913sa1xw1z22jz1qdp2ke"
+      }
+    }
+  }
+}
